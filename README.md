@@ -1,2 +1,2 @@
 # NissanGTR
-Enjoy my new Nissan GTR theme for your Discord
+Enjoy my new Supra theme for your Discord
