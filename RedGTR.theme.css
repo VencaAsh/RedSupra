@@ -1,8 +1,8 @@
 /**
- * @name Nissan GTR
+ * @name Red Supra
  * @author VencaAsh
  * @version 1
- * @description Nissan GTR with ClearVision patern
+ * @description Is that a Supra?
  */
 
 /* IMPORT CSS */
@@ -47,13 +47,13 @@
 	--background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
 	--background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
 	--background-blur: 0px; /* app background blur [default: 0px] */
-	
-	
+
+
 	/* HOME BUTTON ICON */
-	--home-icon: url(https://cdn.freelogovectors.net/wp-content/uploads/2018/11/Nissan-GTR-Logo.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
+	--home-icon: url(https://cdn.freelogovectors.net/wp-content/uploads/2018/04/toyotalogo1.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
 	--home-position: center; /* home button icon position [default: center] */
 	--home-size: 40px; /* home button icon size [default: 40px] */
-	
+
 	/* MODAL BACKDROP */
 	--backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
 	--backdrop-image: var(--background-image); /* modal backdrop image (link must be HTTPS) [default: var(---background-image)] */
@@ -68,8 +68,8 @@
 	--backdrop-grayscale: var(--background-grayscale); /* modal backdrop grayscale ( 0 - 100%) [default: var(---background-grayscale)] */
 	--backdrop-sepia: var(--background-sepia); /* modal backdrop sepia (0 - 100%) [default: var(---background-sepia)] */
 	--backdrop-blur: var(--background-blur); /* modal backdrop blur [default: var(--background-blur)] */
-	
-	
+
+
 	/* USER POPOUT BACKGROUND */
 	--user-popout-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(---background-image)] */
 	--user-popout-position: var(--background-position); /* user popout background position [default: var(---background-position)] */
@@ -83,7 +83,7 @@
 	--user-popout-grayscale: var(--background-grayscale); /* user popout background grayscale (0 - 100%) [default: var(---background-grayscale)] */
 	--user-popout-sepia: var(--background-sepia); /* user popout background sepia (0 - 100%) [default: var(---background-sepia)] */
 	--user-popout-blur: calc(var(--background-blur) + 3px); /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
-	
+
 	/* USER MODAL BACKGROUND */
 	--user-modal-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(---background-image)] */
 	--user-modal-position: var(--background-position); /* user modal background position [default: var(---background-position)] */
